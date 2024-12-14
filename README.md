@@ -11,10 +11,10 @@ Ocultar Linhas de Grade: Oculta as linhas de grade, mostrando apenas o conteúdo
 Estrutura do Projeto
 Abaixo está a estrutura do projeto com a descrição dos arquivos principais:
 
-.
-├── Log/                         # Pasta onde os arquivos de log serão armazenados
-├── FORMATAR_ARQUIVO.py           # Script para formatação automática de arquivos Excel
-├── README.md                    # Este arquivo README
+
+ ├── Log/                          # Pasta onde os arquivos de log serão armazenados<br> 
+ ├── FORMATAR_ARQUIVO.py           # Script para formatação automática de arquivos Excel<br>
+ ├── README.md                     # Este arquivo README<br>
 └── arquivo_de_log.txt            # Arquivo onde as informações detalhadas de log serão salvas
 
 📝 Detalhes do Arquivo FORMATAR_ARQUIVO.py
